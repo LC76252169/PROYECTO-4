@@ -1,0 +1,71 @@
+.ti{
+    color: aliceblue;
+}
+h1{
+    color: black;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div#general{
+    width: 1500px;
+    height: 1300px;
+    background-color: white;
+    font-family: 'Nerko One', cursive;
+
+    
+}
+div#conteiner1{
+    width: 820px;
+    height: 220px;
+    background-color: darkcyan;
+    text-align: center;  
+    margin: auto;
+    font-family: 'Nerko One', cursive;
+  
+}
+div#conteiner2{
+    width: 820px;
+    height: 170px;
+    background-color: skyblue; 
+    
+    margin: auto;
+}
+div#conteiner3{
+    width: 820px;
+    height: 200px;
+    background-color:darkcyan;
+    
+    margin: auto;
+}
+div#conteiner4{
+    width: 820px;
+    height: 100px;
+    background-color: greenyellow;
+    margin: auto;
+}
+.img2{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+.img3{
+    float: left;
+    width: 150px;
+    height: 150px;
+    
+}
+.img3{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.pa{
+    float: right;
+}
